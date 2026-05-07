@@ -1,6 +1,6 @@
 # GTFS Feed Health Dashboard
 
-A React + TypeScript tool for validating GTFS Schedule feeds and surfacing data quality issues — the kind of thing a transit data pipeline team needs to monitor day to day.
+A React + TypeScript tool for validating GTFS Schedule feeds and surfacing data quality issues.
 
 ## Getting started
 
